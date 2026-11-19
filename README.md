@@ -1,1 +1,1 @@
-# lore-app
+# lore
